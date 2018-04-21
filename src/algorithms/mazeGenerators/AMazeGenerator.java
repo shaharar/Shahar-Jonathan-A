@@ -1,5 +1,5 @@
 package algorithms.mazeGenerators;
-
+//test for github
 
 /**
  * <!-- begin-user-doc -->
